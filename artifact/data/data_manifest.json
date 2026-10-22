@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "dataset_status": "frozen processed outputs",
+  "files": [
+    {
+      "name": "e3_honor_efficientnet_summary.csv",
+      "bytes": 5114,
+      "sha256": "f02d9dc32d36a9d130adc98c38cd2461cdeeb04ed282759d8b4a04fcb21e770d"
+    },
+    {
+      "name": "e3_letv_mobilenet_summary.csv",
+      "bytes": 5441,
+      "sha256": "56b2eb22722b44138fa7264400acc2fa001421cbaa335e41f5b5da11f41c790e"
+    },
+    {
+      "name": "e3_letv_resnet50_summary.csv",
+      "bytes": 5407,
+      "sha256": "69be23611f5b855d800c03af065e0f5f51b8832264f34b56fe5b858399deae2c"
+    },
+    {
+      "name": "e3_vivo_efficientnet_summary.csv",
+      "bytes": 5240,
+      "sha256": "e2bca9199c1d6a8f6dfa04b925a5ec6176d0160181ee5f412188787a2e62aaad"
+    },
+    {
+      "name": "e4_end_to_end_summary.csv",
+      "bytes": 13742,
+      "sha256": "d28062b28da20e96d3e9ed1c92cd23e5cf87e193b1769a1976d8c75c8f035068"
+    },
+    {
+      "name": "e4_pareto_points.csv",
+      "bytes": 21772,
+      "sha256": "e27f2e9db1837e45e228d5ff9acef119d50ee410425214baad42637ac1acaa04"
+    },
+    {
+      "name": "e5_recovery_summary.csv",
+      "bytes": 2605,
+      "sha256": "eea1bd60248c8bb03cfaec1d61709701a3ebe00f8ed999f13334cbb0f8de342c"
+    },
+    {
+      "name": "e5_recovery_trials.csv",
+      "bytes": 64268,
+      "sha256": "93445841dea6716725f43a2483ab4bdc7064d69a8549e60a2e49b8c2d4a3d679"
+    },
+    {
+      "name": "e5_update_ground_truth.csv",
+      "bytes": 887,
+      "sha256": "b773d6caafb994257639543c75fe5bbb02ca818cce1877a95d072561e8c6a023"
+    }
+  ]
+}

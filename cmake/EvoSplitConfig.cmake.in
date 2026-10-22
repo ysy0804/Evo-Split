@@ -1,0 +1,22 @@
+@PACKAGE_INIT@
+
+include(CMakeFindDependencyMacro)
+find_dependency(Threads)
+
+if(@EVOSPLIT_WITH_MNN@ AND NOT TARGET EvoSplitMNN)
+    find_path(EVOSPLIT_MNN_INCLUDE_DIR MNN/Interpreter.hpp)
+    find_library(EVOSPLIT_MNN_LIBRARY NAMES MNN)
+    if(NOT EVOSPLIT_MNN_INCLUDE_DIR OR NOT EVOSPLIT_MNN_LIBRARY)
+        set(EvoSplit_FOUND FALSE)
+        set(EvoSplit_NOT_FOUND_MESSAGE
+            "This Evo-Split package was built with MNN; provide MNN headers and library on CMAKE_PREFIX_PATH.")
+        return()
+    endif()
+    add_library(EvoSplitMNN UNKNOWN IMPORTED)
+    set_target_properties(EvoSplitMNN PROPERTIES
+        IMPORTED_LOCATION "${EVOSPLIT_MNN_LIBRARY}"
+        INTERFACE_INCLUDE_DIRECTORIES "${EVOSPLIT_MNN_INCLUDE_DIR}")
+endif()
+
+include("${CMAKE_CURRENT_LIST_DIR}/EvoSplitTargets.cmake")
+

@@ -1,0 +1,163 @@
+﻿method_key,method_label,reproduction_tier,device_key,device_label,physical_boundary,codec,p50_latency_ms,p95_latency_ms,mean_payload_bytes,top1_accuracy_pct,delta_accuracy_pp,n
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,111,FP16,1698.8322910000002,2187.56260305,188300.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,111,INT4,1652.3174475,2065.9801821499996,53060.0,40.0,1.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,111,INT6,1633.6760415,2049.05497445,73640.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,111,INT8,1644.673437,2107.4900517,95692.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,111,RAW32,1900.870572,2328.61838465,376432.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,166,FP16,1753.2369789999998,2158.0901560499997,131971.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,166,INT4,1681.2440105,2184.27822835,37303.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,166,INT6,1674.6859375,2069.45078125,51711.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,166,INT8,1653.4510415,2061.8266399,67147.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,166,RAW32,1753.0015615,2371.7311461,263627.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,1,FP16,1788.7286454999999,2124.77044175,301179.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,1,INT4,1626.04349,2137.3426297,84795.0,38.0,3.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,1,INT6,1599.141146,2033.63359375,117723.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,1,INT8,1643.028386,2017.40380195,153003.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,1,RAW32,1929.5760415,2409.67765685,602207.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,221,FP16,1598.7820315,1991.03958275,2696.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,221,INT4,1626.051042,2100.6979945999997,856.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,221,INT6,1623.737239,2106.30953155,1136.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,221,INT8,1623.2322915,2011.32796855,1436.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,221,RAW32,1622.8971354999999,2125.1124468,5228.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,56,FP16,1924.159114,2547.0123188,439298.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,56,INT4,1690.486718,2138.4219525999997,123738.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,56,INT6,1773.2414055,2109.3223952,171758.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,56,INT8,1742.0598949999999,2176.19161395,223210.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,honor_jsn_al00a,Honor JSN-AL00a,56,RAW32,2072.0684895,2549.8805456,878282.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,111,FP16,1880.9962305,2329.16517295,188300.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,111,INT4,1717.973461,2208.8142577,53060.0,40.0,1.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,111,INT6,1694.2383465,2267.675358499999,73640.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,111,INT8,1740.8006545,2122.78181985,95692.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,111,RAW32,1902.836808,2436.5128478999995,376432.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,166,FP16,1841.129116,2280.34654705,131971.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,166,INT4,1812.4496924999999,2377.86134225,37303.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,166,INT6,1766.5826149999998,2246.85281145,51711.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,166,INT8,1817.3764999999999,2216.6935234999996,67147.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,166,RAW32,1930.5387305,2449.33589985,263627.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,1,FP16,1824.9505765,2236.2999074,301179.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,1,INT4,1642.086769,2169.19297335,84795.0,38.0,3.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,1,INT6,1630.976577,1959.4796003499998,117723.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,1,INT8,1688.8206545,2129.2377918999996,153003.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,1,RAW32,1938.5026925,2451.5786776,602207.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,221,FP16,1696.2223075000002,2239.8890848999995,2696.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,221,INT4,1795.976846,2145.4666652,856.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,221,INT6,1738.1882695,2213.82313795,1136.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,221,INT8,1769.612346,2284.0506609999998,1436.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,221,RAW32,1799.6351155,2250.72868015,5228.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,56,FP16,2001.834616,2409.2062656,439298.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,56,INT4,1759.702884,2164.8631337499996,123738.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,56,INT6,1792.0487305000001,2254.12402375,171758.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,56,INT8,1801.0145385,2360.30530425,223210.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,letv_x501,Letv X501,56,RAW32,2111.8779615000003,2609.9676263,878282.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,111,FP16,1685.6732695,2143.0414128999996,188300.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,111,INT4,1603.1095,2116.4911352,53060.0,40.0,1.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,111,INT6,1597.1500005,2060.07315345,73640.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,111,INT8,1601.8581924999999,2048.7234919,95692.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,111,RAW32,1801.321077,2343.5940726999997,376432.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,166,FP16,1682.210346,2121.7893132500003,131971.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,166,INT4,1598.6293850000002,2110.4529732,37303.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,166,INT6,1515.205115,1975.55432255,51711.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,166,INT8,1609.0507695000001,2068.5940656,67147.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,166,RAW32,1709.586654,2264.1357163499997,263627.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,1,FP16,1700.8839615,2176.5388774499997,301179.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,1,INT4,1528.8963469999999,1979.5162234999998,84795.0,38.0,3.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,1,INT6,1554.2594615,2014.4930573499998,117723.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,1,INT8,1651.859385,2142.17215385,153003.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,1,RAW32,1877.932616,2399.53426475,602207.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,221,FP16,1528.8949229999998,2092.9157733499997,2696.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,221,INT4,1534.756423,1961.0718304999998,856.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,221,INT6,1583.7515,2081.57959215,1136.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,221,INT8,1590.841539,1983.0690771499999,1436.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,221,RAW32,1534.1386155,2008.66612205,5228.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,56,FP16,1866.2789615000002,2239.8948006,439298.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,56,INT4,1616.3752315,2000.4687843999998,123738.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,56,INT6,1687.9541924999999,2139.74289225,171758.0,41.0,0.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,56,INT8,1652.4256925,2222.1703301499997,223210.0,42.0,-1.0,100
+evo_split,Evo-Split,measured/full action space,vivo_s9,vivo S9,56,RAW32,2055.6568085,2507.1529730499997,878282.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,111,INT4,1652.3174475,2065.9801821499996,53060.0,40.0,1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,111,INT6,1633.6760415,2049.05497445,73640.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,111,INT8,1644.673437,2107.4900517,95692.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,166,INT4,1681.2440105,2184.27822835,37303.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,166,INT6,1674.6859375,2069.45078125,51711.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,166,INT8,1653.4510415,2061.8266399,67147.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,1,INT4,1626.04349,2137.3426297,84795.0,38.0,3.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,1,INT6,1599.141146,2033.63359375,117723.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,1,INT8,1643.028386,2017.40380195,153003.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,221,INT4,1626.051042,2100.6979945999997,856.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,221,INT6,1623.737239,2106.30953155,1136.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,221,INT8,1623.2322915,2011.32796855,1436.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,56,INT4,1690.486718,2138.4219525999997,123738.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,56,INT6,1773.2414055,2109.3223952,171758.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,56,INT8,1742.0598949999999,2176.19161395,223210.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,111,INT4,1717.973461,2208.8142577,53060.0,40.0,1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,111,INT6,1694.2383465,2267.675358499999,73640.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,111,INT8,1740.8006545,2122.78181985,95692.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,166,INT4,1812.4496924999999,2377.86134225,37303.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,166,INT6,1766.5826149999998,2246.85281145,51711.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,166,INT8,1817.3764999999999,2216.6935234999996,67147.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,1,INT4,1642.086769,2169.19297335,84795.0,38.0,3.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,1,INT6,1630.976577,1959.4796003499998,117723.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,1,INT8,1688.8206545,2129.2377918999996,153003.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,221,INT4,1795.976846,2145.4666652,856.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,221,INT6,1738.1882695,2213.82313795,1136.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,221,INT8,1769.612346,2284.0506609999998,1436.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,56,INT4,1759.702884,2164.8631337499996,123738.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,56,INT6,1792.0487305000001,2254.12402375,171758.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,letv_x501,Letv X501,56,INT8,1801.0145385,2360.30530425,223210.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,111,INT4,1603.1095,2116.4911352,53060.0,40.0,1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,111,INT6,1597.1500005,2060.07315345,73640.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,111,INT8,1601.8581924999999,2048.7234919,95692.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,166,INT4,1598.6293850000002,2110.4529732,37303.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,166,INT6,1515.205115,1975.55432255,51711.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,166,INT8,1609.0507695000001,2068.5940656,67147.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,1,INT4,1528.8963469999999,1979.5162234999998,84795.0,38.0,3.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,1,INT6,1554.2594615,2014.4930573499998,117723.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,1,INT8,1651.859385,2142.17215385,153003.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,221,INT4,1534.756423,1961.0718304999998,856.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,221,INT6,1583.7515,2081.57959215,1136.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,221,INT8,1590.841539,1983.0690771499999,1436.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,56,INT4,1616.3752315,2000.4687843999998,123738.0,42.0,-1.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,56,INT6,1687.9541924999999,2139.74289225,171758.0,41.0,0.0,100
+auto_split_t,Auto-Split-T,measured/idea reproduction,vivo_s9,vivo S9,56,INT8,1652.4256925,2222.1703301499997,223210.0,42.0,-1.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,111,INT8,1644.673437,2107.4900517,95692.0,42.0,-1.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,166,INT8,1653.4510415,2061.8266399,67147.0,41.0,0.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,1,INT8,1643.028386,2017.40380195,153003.0,41.0,0.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,221,INT8,1623.2322915,2011.32796855,1436.0,41.0,0.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,56,INT8,1742.0598949999999,2176.19161395,223210.0,42.0,-1.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,letv_x501,Letv X501,111,INT8,1740.8006545,2122.78181985,95692.0,42.0,-1.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,letv_x501,Letv X501,166,INT8,1817.3764999999999,2216.6935234999996,67147.0,41.0,0.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,letv_x501,Letv X501,1,INT8,1688.8206545,2129.2377918999996,153003.0,41.0,0.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,letv_x501,Letv X501,221,INT8,1769.612346,2284.0506609999998,1436.0,41.0,0.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,letv_x501,Letv X501,56,INT8,1801.0145385,2360.30530425,223210.0,42.0,-1.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,vivo_s9,vivo S9,111,INT8,1601.8581924999999,2048.7234919,95692.0,42.0,-1.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,vivo_s9,vivo S9,166,INT8,1609.0507695000001,2068.5940656,67147.0,41.0,0.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,vivo_s9,vivo S9,1,INT8,1651.859385,2142.17215385,153003.0,41.0,0.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,vivo_s9,vivo S9,221,INT8,1590.841539,1983.0690771499999,1436.0,41.0,0.0,100
+jointdnn_q8,JointDNN-Q8,measured/idea reproduction,vivo_s9,vivo S9,56,INT8,1652.4256925,2222.1703301499997,223210.0,42.0,-1.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,111,RAW32,1900.870572,2328.61838465,376432.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,166,RAW32,1753.0015615,2371.7311461,263627.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,221,RAW32,1622.8971354999999,2125.1124468,5228.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,56,RAW32,2072.0684895,2549.8805456,878282.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,letv_x501,Letv X501,111,RAW32,1902.836808,2436.5128478999995,376432.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,letv_x501,Letv X501,166,RAW32,1930.5387305,2449.33589985,263627.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,letv_x501,Letv X501,221,RAW32,1799.6351155,2250.72868015,5228.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,letv_x501,Letv X501,56,RAW32,2111.8779615000003,2609.9676263,878282.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,vivo_s9,vivo S9,111,RAW32,1801.321077,2343.5940726999997,376432.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,vivo_s9,vivo S9,166,RAW32,1709.586654,2264.1357163499997,263627.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,vivo_s9,vivo S9,221,RAW32,1534.1386155,2008.66612205,5228.0,41.0,0.0,100
+dynamic_split,Dynamic Split,measured/idea reproduction,vivo_s9,vivo S9,56,RAW32,2055.6568085,2507.1529730499997,878282.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,111,RAW32,1900.870572,2328.61838465,376432.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,166,RAW32,1753.0015615,2371.7311461,263627.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,1,RAW32,1929.5760415,2409.67765685,602207.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,221,RAW32,1622.8971354999999,2125.1124468,5228.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,honor_jsn_al00a,Honor JSN-AL00a,56,RAW32,2072.0684895,2549.8805456,878282.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,letv_x501,Letv X501,111,RAW32,1902.836808,2436.5128478999995,376432.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,letv_x501,Letv X501,166,RAW32,1930.5387305,2449.33589985,263627.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,letv_x501,Letv X501,1,RAW32,1938.5026925,2451.5786776,602207.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,letv_x501,Letv X501,221,RAW32,1799.6351155,2250.72868015,5228.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,letv_x501,Letv X501,56,RAW32,2111.8779615000003,2609.9676263,878282.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,vivo_s9,vivo S9,111,RAW32,1801.321077,2343.5940726999997,376432.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,vivo_s9,vivo S9,166,RAW32,1709.586654,2264.1357163499997,263627.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,vivo_s9,vivo S9,1,RAW32,1877.932616,2399.53426475,602207.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,vivo_s9,vivo S9,221,RAW32,1534.1386155,2008.66612205,5228.0,41.0,0.0,100
+neurosurgeon,Neurosurgeon,measured/idea reproduction,vivo_s9,vivo S9,56,RAW32,2055.6568085,2507.1529730499997,878282.0,41.0,0.0,100

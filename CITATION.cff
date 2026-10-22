@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use Evo-Split, please cite the accompanying paper and this software artifact."
+title: "Evo-Split"
+abstract: "A model-evolution-aware edge-cloud split inference framework for heterogeneous mobile systems."
+type: software
+authors:
+  - name: "Evo-Split Authors"
+version: 0.1.0
+date-released: 2026-10-22
+license: Apache-2.0
+

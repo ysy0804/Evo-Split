@@ -1,0 +1,6 @@
+﻿update_id,old_version,new_version,expected_impact_level,mutation_kind,structure_changed,content_changed,protocol_changed,expected_strategy,onnx_output_mae,onnx_output_max_abs,truth_basis
+U0,V0,U0,I1,weight_only,false,true,false,reuse_structure_requalify_accuracy,4.239101087932795e-07,1.5497207641601562e-06,deterministic intervention log
+U1,V0,U1,I2,local_operator_same_contract,true,true,false,incremental_local_recovery,0.042737651616334915,0.18322336673736572,deterministic intervention log
+U2,V0,U2,I3,local_module_replacement,true,true,false,incremental_local_recovery,0.015714624896645546,0.07650947570800781,deterministic intervention log
+U3,V0,U3,I3,structural_branch_merge,true,true,false,incremental_local_recovery,0.0,0.0,deterministic intervention log
+U4,V0,U4_fault,I4,protocol_codec_or_peer_mismatch,false,false,true,block_and_rollback,,,fault-injection manifest
